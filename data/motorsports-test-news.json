@@ -1,0 +1,119 @@
+[
+  {
+    "key": "f1",
+    "series": "Formula One",
+    "node": "Generic",
+    "title": "F1 title battle turns on development momentum",
+    "summary": "McLaren’s update approach remains the benchmark as Ferrari and Mercedes pursue gains through the season.",
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/f1/news/12433/13570144/ferrari-boss-fred-vasseur-pinpoints-areas-team-need-to-improve-in-to-keep-lewis-hamilton-in-f1-title-fight"
+  },
+  {
+    "key": "ferrari",
+    "series": "Formula One",
+    "node": "Scuderia Ferrari",
+    "title": "Ferrari targets power-unit gains in its chase of Mercedes",
+    "summary": "Fred Vasseur says Ferrari has engine improvements planned while the team tries to maintain recent scoring momentum.",
+    "source": "RACER",
+    "url": "https://racer.com/2026/08/13/vasseur-promises-engine-improvements-as-ferrari-chases-mercedes"
+  },
+  {
+    "key": "leclerc",
+    "series": "Formula One",
+    "node": "Charles Leclerc",
+    "title": "Leclerc urges Ferrari to stay aggressive with upgrades",
+    "summary": "Leclerc believes upgrades matter more than ever and wants Ferrari to keep pressing its development programme.",
+    "source": "PlanetF1",
+    "url": "https://www.planetf1.com/news/charles-leclerc-makes-aggressive-ferrari-request-f1-title-race"
+  },
+  {
+    "key": "hamilton",
+    "series": "Formula One",
+    "node": "Lewis Hamilton",
+    "title": "Ferrari identifies areas to protect Hamilton’s title push",
+    "summary": "Vasseur says the team must improve key areas to keep Hamilton in the championship fight.",
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/f1/news/12433/13570144/ferrari-boss-fred-vasseur-pinpoints-areas-team-need-to-improve-in-to-keep-lewis-hamilton-in-f1-title-fight"
+  },
+  {
+    "key": "williams",
+    "series": "Formula One",
+    "node": "Williams F1",
+    "title": "Williams waits on a decision that could reshape its 2027 driver picture",
+    "summary": "Carlos Sainz says clarity on his future is close, amid reports linking him with a move to Audi.",
+    "source": "Crash.net",
+    "url": "https://www.crash.net/f1/news/1102427/1/carlos-sainz-hints-imminent-williams-future-decision"
+  },
+  {
+    "key": "sainz",
+    "series": "Formula One",
+    "node": "Carlos Sainz",
+    "title": "Sainz hints that his Williams future will be settled soon",
+    "summary": "The Spaniard says a decision is imminent as the driver market starts to move around him.",
+    "source": "Crash.net",
+    "url": "https://www.crash.net/f1/news/1102427/1/carlos-sainz-hints-imminent-williams-future-decision"
+  },
+  {
+    "key": "motogp",
+    "series": "MotoGP",
+    "node": "Generic",
+    "title": "MotoGP’s 2027 reset is already shaping the paddock",
+    "summary": "The coming switch to 850cc bikes, Pirelli tyres and tighter aero rules is influencing rider and factory planning now.",
+    "source": "The Race",
+    "url": "https://www.the-race.com/motogp/insane-ducati-tipped-for-early-advantage-in-motogp-2027/"
+  },
+  {
+    "key": "ducati",
+    "series": "MotoGP",
+    "node": "Ducati",
+    "title": "Ducati’s 2027 line-up will pair Márquez with Acosta",
+    "summary": "Pedro Acosta is officially set to join Marc Márquez for MotoGP’s new technical era.",
+    "source": "Crash.net",
+    "url": "https://www.crash.net/motogp/news/1090341/1/official-pedro-acosta-joins-marc-marquez-2027-ducati-motogp-line"
+  },
+  {
+    "key": "acosta",
+    "series": "MotoGP",
+    "node": "Pedro Acosta",
+    "title": "Acosta’s move to factory Ducati is official for 2027",
+    "summary": "The rider will leave KTM and partner Marc Márquez as MotoGP enters its 850cc era.",
+    "source": "Crash.net",
+    "url": "https://www.crash.net/motogp/news/1090341/1/official-pedro-acosta-joins-marc-marquez-2027-ducati-motogp-line"
+  },
+  {
+    "key": "marquez",
+    "series": "MotoGP",
+    "node": "Marc Márquez",
+    "title": "Márquez and Acosta strike an early respectful tone",
+    "summary": "Ducati’s future team-mates have addressed their 2027 partnership ahead of the new rules cycle.",
+    "source": "Motorsport.com",
+    "url": "https://www.motorsport.com/motogp/news/marc-marquez-and-pedro-acosta-give-early-verdict-on-2027-motogp-partnership/10833251/"
+  },
+  {
+    "key": "f2",
+    "series": "Formula Two",
+    "node": "Generic",
+    "title": "Formula Two’s title fight is feeding the next F1 conversation",
+    "summary": "Rafael Câmara is among the contenders keeping his focus on F2 even as 2027 F1 rumours gather pace.",
+    "source": "Motorsport.com",
+    "url": "https://www.motorsport.com/f1/news/f2-star-rafael-camara-responds-to-2027-haas-f1-rumours/10844762/"
+  },
+  {
+    "key": "maini",
+    "series": "Formula Two",
+    "node": "Kush Maini",
+    "title": "Mahindra sees a possible Formula E future for Kush Maini",
+    "summary": "The Mahindra CEO says Maini has potential, while stressing that a future drive must still meet the team’s competitive needs.",
+    "source": "Sportstar",
+    "url": "https://sportstar.thehindu.com/motorsport/kush-maini-formula-e-future-career-mahindra-racing-ceo-frederic-bertrand-comments-interview/article71344193.ece"
+  },
+  {
+    "key": "camara",
+    "series": "Formula Two",
+    "node": "Rafael Câmara",
+    "title": "Câmara blocks out Haas rumours to focus on Formula Two",
+    "summary": "The Ferrari prospect says the F2 title fight remains his priority despite speculation about a 2027 F1 seat.",
+    "source": "Motorsport.com",
+    "url": "https://www.motorsport.com/f1/news/f2-star-rafael-camara-responds-to-2027-haas-f1-rumours/10844762/"
+  }
+]

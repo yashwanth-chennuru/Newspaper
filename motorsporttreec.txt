@@ -1,0 +1,62 @@
+# Root (Depth / Level 0)
+root = TreeNode("0", "Motorsports")
+
+# Level 1 Subtrees
+f1 = TreeNode("1.1", "Formula One")
+motogp = TreeNode("1.2", "MotoGP")
+f2 = TreeNode("1.3", "Formula Two")
+fe = TreeNode("1.4", "Formula E")
+others = TreeNode("1.5", "Others")
+
+root.children = [f1, motogp, f2, fe, others]
+
+# Level 1.1 (Formula One)
+ferrari = TreeNode("1.1.1", "Scuderia Ferrari")
+ferrari.children = [
+    TreeNode("1.1.1.1", "Charles Leclerc"),
+    TreeNode("1.1.1.2", "Lewis Hamilton")
+]
+
+f1_generic = TreeNode("1.1.2", "Generic")
+
+williams = TreeNode("1.1.3", "Williams F1")
+williams.children = [
+    TreeNode("1.1.3.1", "Carlos Sainz")
+]
+
+f1.children = [ferrari, f1_generic, williams]
+
+# Level 1.2 (MotoGP)
+ducati = TreeNode("1.2.1", "Ducati")
+ducati.children = [
+    TreeNode("1.2.1.1", "Pedro Acosta"),
+    TreeNode("1.2.1.2", "Marc Marquez")
+]
+
+motogp_generic = TreeNode("1.2.2", "Generic")
+motogp.children = [ducati, motogp_generic]
+
+# Level 1.3 (Formula Two)
+f2.children = [
+    TreeNode("1.3.1", "Kush Maini"),
+    TreeNode("1.3.2", "Generic"),
+    TreeNode("1.3.3", "Rafael Câmara")
+]
+
+# Level 1.4 (Formula E)
+mahindra = TreeNode("1.4.1", "Mahindra")
+mahindra.children = [
+    TreeNode("1.4.1.1", "Nyck de Vries"),
+    TreeNode("1.4.1.1", "Edoardo Mortara")
+]
+
+fe_generic = TreeNode("1.4.2", "Generic")
+fe.children = [mahindra, fe_generic]
+
+# Level 1.5 (Others)
+others.children = [
+    TreeNode("1.5.1", "NASCAR"),
+    TreeNode("1.5.2", "Le Mans"),
+    TreeNode("1.5.3", "Endurance"),
+    TreeNode("1.5.4", "Rally")
+]

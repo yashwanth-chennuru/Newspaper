@@ -1,0 +1,32 @@
+Level 0: Motorsports
+│
+├── Level 1.1: Formula One
+│   ├── Level 1.1.1: Scuderia Ferrari
+│   │   ├── Level 1.1.1.1: Charles Leclerc
+│   │   └── Level 1.1.1.2: Lewis Hamilton
+│   ├── Level 1.1.2: Generic
+│   └── Level 1.1.3: Williams F1
+│       └── Level 1.1.3.1: Carlos Sainz
+│
+├── Level 1.2: MotoGP
+│   ├── Level 1.2.1: Ducati
+│   │   ├── Level 1.2.1.1: Pedro Acosta
+│   │   └── Level 1.2.1.2: Marc Marquez
+│   └── Level 1.2.2: Generic
+│
+├── Level 1.3: Formula Two
+│   ├── Level 1.3.1: Kush Maini
+│   ├── Level 1.3.2: Generic
+│   └── Level 1.3.3: Rafael Câmara
+│
+├── Level 1.4: Formula E
+│   ├── Level 1.4.1: Mahindra
+│   │   ├── Level 1.4.1.1: Nyck de Vries
+│   │   └── Level 1.4.1.1: Edoardo Mortara
+│   └── Level 1.4.2: Generic
+│
+└── Level 1.5: Others
+    ├── Level 1.5.1: NASCAR
+    ├── Level 1.5.2: Le Mans
+    ├── Level 1.5.3: Endurance
+    └── Level 1.5.4: Rally
