@@ -6,7 +6,7 @@ La Gazzetta Odierna is a deliberately small static newspaper. This document is t
 
 - Published output is static HTML and CSS.
 - Interactive behaviour stays in an inline `<script>` in the page that uses it; no external JavaScript bundles.
-- Shared visual rules belong in `style.css`.
+- Shared visual rules belong in `assets/css/style.css`.
 - A browser must be able to open `index.html` directly without a build step.
 
 ## Source of truth
@@ -14,7 +14,7 @@ La Gazzetta Odierna is a deliberately small static newspaper. This document is t
 - Edition overview: `index.html`.
 - Long-form briefings: `articles/`.
 - Structured experimental topic content: `data/`.
-- Topic hierarchy experiments: named tree files at the repository root.
+- Topic hierarchy experiments: `data/motorsports/`.
 - Release history: `changelog.html`.
 
 When repeated article markup begins to make a change risky, introduce a small standard-library Python generator with structured data as input. Do not add a framework, package manager, or generated output unless it materially reduces repeated source.
